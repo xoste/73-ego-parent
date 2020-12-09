@@ -1,0 +1,3 @@
+# Project exclude paths
+/ego-management/target/
+/ego-portal/target/
